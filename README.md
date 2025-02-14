@@ -1,3 +1,5 @@
+![Project Screenshot](assets/project4-DRnYNLeZ.jpg)
+
 # Dental Landing Page
 
 Welcome to the **Dental Landing Page**, where professional care meets cutting-edge design. This landing page offers an inviting, modern interface with engaging animations that capture attention, enhance user experience, and guide users effortlessly through the content. The visually appealing experience ensures a seamless interaction for prospective patients.
@@ -18,8 +20,8 @@ Welcome to the **Dental Landing Page**, where professional care meets cutting-ed
 
 Feel free to check out the project:
 
-- **[View Project](#)**
-- **[View Code](#)**
+- **[https://github.com/kareen133/DentalLandingPage.git](#)**
+- **[https://kareen133.github.io/DentalLandingPage/](#)**
 
 ---
 
