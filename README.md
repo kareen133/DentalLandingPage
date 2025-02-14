@@ -19,10 +19,16 @@ Welcome to the **Dental Landing Page**, where professional care meets cutting-ed
 
 Feel free to check out the project:
 
-- **[https://github.com/kareen133/DentalLandingPage.git](#)**
-- **[https://kareen133.github.io/DentalLandingPage/](#)**
+- **[GitHub Repository](https://github.com/kareen133/DentalLandingPage.git)**
+- **[Live Demo](https://kareen133.github.io/DentalLandingPage/)**
+
+## Project Screenshot
+
+![Project Screenshot](C:\Users\Lenovo\Desktop\protofilo\dist\assets\project4-DRnYNLeZ.jpg)
 
 ---
 
 For any suggestions or contributions, feel free to fork and submit a pull request!
+
+
 
