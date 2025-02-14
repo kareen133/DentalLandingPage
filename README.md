@@ -1,5 +1,4 @@
-![Project Screenshot](assets/project4-DRnYNLeZ.jpg)
-
+![Copy of kiTcHEn](https://github.com/user-attachments/assets/3aae00c1-9159-4e82-9d0c-0b35e0e420fc)
 # Dental Landing Page
 
 Welcome to the **Dental Landing Page**, where professional care meets cutting-edge design. This landing page offers an inviting, modern interface with engaging animations that capture attention, enhance user experience, and guide users effortlessly through the content. The visually appealing experience ensures a seamless interaction for prospective patients.
