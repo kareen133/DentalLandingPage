@@ -22,9 +22,6 @@ Feel free to check out the project:
 - **[GitHub Repository](https://github.com/kareen133/DentalLandingPage.git)**
 - **[Live Demo](https://kareen133.github.io/DentalLandingPage/)**
 
-## Project Screenshot
-
-![Project Screenshot](C:\Users\Lenovo\Desktop\protofilo\dist\assets\project4-DRnYNLeZ.jpg)
 
 ---
 
